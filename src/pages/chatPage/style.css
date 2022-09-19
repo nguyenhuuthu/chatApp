@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p {
+    background-color: red;
+    text-align: center;
+}
+html, body{
+    height: 90%;
+
+}
+.container3{
+    display: flex;
+    height: 100%;
+
+}
+.bibi {
+    width: 350px;
+    text-align: center;
+    border-right: 1px solid black;
+    height: 100%;
+    
+}
+.bibi1{
+    border-bottom: 1px solid black;
+    height:40px ;
+}
+.hehe{
+    width: 630px;
+    text-align: center;
+    border-right: 1px solid black;
+    height: 100%;
+}
+.hehe2{
+    height: calc(86vh);
+}
+h4{
+    border-bottom: 0.5px solid black;
+    height: 40px;
+}
+input{
+    width: 93%;
+    height: 40px;
+}
+button{
+    height: 40px;
+}
+.csds{
+    height: 50px;
+    background-color: red;
+    text-align: center;
+    margin: auto;
+    line-height: 50px;
+    font-size: 25px;
+    color: white;
+}
